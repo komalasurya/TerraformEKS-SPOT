@@ -5,6 +5,6 @@ provider "kubernetes" {
 }
 
 provider "aws" {
-  region = "us-east-2"
-  profile = "personal"
+  region = "ap-southeast-1"
+  profile = "default"
 }
